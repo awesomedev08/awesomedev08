@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Full stack Web & Mobile Developer</h1>
+<h1 align="center">Fullstack Wizard: Efficient Solutions || Development || Integration</h1>
 
 ###
 
