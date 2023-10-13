@@ -121,6 +121,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sweatydev/sweatydev/output/snake.svg" alt="Snake animation" />
-
-###
